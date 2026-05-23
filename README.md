@@ -48,7 +48,8 @@ streamlit run App.py
 ```
 
 ## Screenshots
-![App Screenshot](![alt text](image.png))
+<img width="892" height="422" alt="image" src="https://github.com/user-attachments/assets/3a84baee-04f6-4faa-b5b6-aed2476bdaba" />
+
 
 ## Author
 Made by Snehashree
