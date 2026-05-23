@@ -48,7 +48,7 @@ streamlit run App.py
 ```
 
 ## Screenshots
-<img width="892" height="422" alt="image" src="https://github.com/user-attachments/assets/3a84baee-04f6-4faa-b5b6-aed2476bdaba" />
+<img width="1844" height="914" alt="image" src="https://github.com/user-attachments/assets/cb69e4d1-b49d-4f5d-9174-2d539acccd64" />
 
 
 ## Author
